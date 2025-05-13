@@ -152,8 +152,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-medium">Phone</h3>
-                    <p className="text-muted-foreground">+1 (555) 123-4567</p>
-                    <p className="text-sm text-muted-foreground mt-1">Mon-Fri from 9am to 5pm EST</p>
+                    <p className="text-muted-foreground">+91 1234567891</p>
+                    <p className="text-sm text-muted-foreground mt-1">Mon-Fri from 9am to 5pm IST</p>
                   </div>
                 </motion.div>
 
@@ -166,9 +166,9 @@ export default function ContactPage() {
                     <p className="text-muted-foreground">
                       123 Recipe Street
                       <br />
-                      Foodville, CA 94103
+                      FOodHub, Blr 560001
                       <br />
-                      United States
+                      Bharat
                     </p>
                   </div>
                 </motion.div>
